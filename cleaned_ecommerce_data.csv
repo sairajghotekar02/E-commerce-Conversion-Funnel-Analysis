@@ -1,0 +1,7 @@
+event_type,user_session,event_time,category_code,brand,product_id,price
+view,s1,2019-10-01 10:00:00,electronics,apple,1001,999.99
+view,s2,2019-10-01 10:05:00,electronics,samsung,1002,799.5
+cart,s2,2019-10-01 10:10:00,fashion,nike,2001,59.99
+cart,s3,2019-10-01 10:15:00,fashion,adidas,2002,89.99
+purchase,s3,2019-10-01 10:20:00,home,ikea,3001,129.99
+purchase,s4,2019-10-01 10:25:00,home,ikea,3002,149.99
